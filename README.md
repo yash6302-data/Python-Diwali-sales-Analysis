@@ -1,4 +1,4 @@
-##Diwali Sales Analysis Project
+Diwali Sales Analysis Project
 
 In this project, I conducted an in-depth analysis of sales data during the Diwali season, focusing on consumer behavior, product performance, and marketing effectiveness. The goal was to provide actionable insights to improve sales strategies and decision-making for future holiday seasons. Key aspects of the project include:
 
